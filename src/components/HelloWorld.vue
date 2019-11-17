@@ -8,7 +8,7 @@
         <h1></h1>
       </v-flex>
       <v-flex xs12 class="py-12">
-        <h1>数式結果</h1>
+        <h1>【数式結果】</h1>
       </v-flex>
 
       <v-flex mb-4>
